@@ -1,0 +1,7 @@
+7
+10,5
+10
+
+Variavel 4 e maior que a 10.0
+
+Variavel 5 e menor igual a 10.0
