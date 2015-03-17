@@ -1,0 +1,2 @@
+No primeiro exemplo o erro está no ";" do "if( c < 7 );"
+No segundo exemplo o erro esá no operador "=>" do "if( c => 7 )", o operador está invertido, o correto seria "if( c >= 7 )"
