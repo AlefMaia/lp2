@@ -1,7 +1,14 @@
-7
-10,5
-10
+Impresso na tela{
+  7
+  10,5
+  10
+  
+  Variavel 4 e maior que a 10.0
+  
+  Variavel 5 e menor igual a 10.0
+}
 
-Variavel 4 e maior que a 10.0
+Justificativa
 
-Variavel 5 e menor igual a 10.0
+  O valor da variável 4 foi decimal pois era dividido com a "tag" float, que transforma o valor em decimal.
+  Ja o valor da variável 5 foi inteiro pois não continha a mesma "tag" na operação.
