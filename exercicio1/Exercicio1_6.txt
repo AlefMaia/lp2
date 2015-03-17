@@ -1,0 +1,3 @@
+No exercicio 3, os valores resultados são inteiros, logo não mostram as casas decimais por mais que elas existam.
+No exercicio 4, os valores resultados são flutuantes, isso significa que é aceito o ponto flutuante, ou as casas decimais.
+No exercicio 5, os valores resultados são doubles, isso também significa que é aceito o ponto flutuante, mas esse tipo de variável ocupa menos espaço na memória em relação ao "float", que também aceita os pontos flutuantes.
