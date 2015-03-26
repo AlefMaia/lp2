@@ -1,0 +1,7 @@
+Tipo abstrato de dados(TAD) é um conjunto de dados a serem armazenados de uma maneira organizada.
+
+Classe é um TAD.
+
+Objeto é a materialização de uma classe.
+
+Mensagens são métodos, ou seja, funções que dão ações para os objetos.
