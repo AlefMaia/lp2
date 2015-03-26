@@ -1,0 +1,1 @@
+O comando "new" é usado para instanciar um objeto, ou seja, o comando faz parte da criação daquele objeto que você quer usar. Quando um objeto é instanciado é alocado um espaço na memoria para ele, fazendo com que ele ja tenha um espaço "privado" na memoria pra quando estiver em uso.
