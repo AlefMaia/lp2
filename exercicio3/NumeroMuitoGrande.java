@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class NumeroMuitoGrande{
-    int v1[] = new int[30], v2[] = new int[30], r[] = new int[31], r1[] = new int[32], x, y, z, w;
+    int v1[] = new int[30], v2[] = new int[30], r[] = new int[31], r1[] = new int[32], x, y;
     public void soma(){
         for(int i=29;i>=0;i--){
             if(v2[i] == -1){
